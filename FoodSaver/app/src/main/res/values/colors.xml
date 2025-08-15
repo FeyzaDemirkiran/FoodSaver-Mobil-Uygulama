@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="kart_renk1">#FAEDED</color>
+    <color name="kart_renk2">#FAEDF3</color>
+    <color name="kart_renk3">#EFEAFA</color>
+    <color name="kart_renk4">#EAF0FA</color>
+    <color name="kart_renk5">#EAFBF8</color>
+    <color name="kart_renk6">#F1FAEA</color>
+    <color name="kart_renk7">#FBF8EA</color>
+    <color name="kart_renk8">#FAF2E5</color>
+    <color name="kart_renk9">#E5F0FA</color>
+    <color name="kart_renk10">#EAFBF1</color>
+
+    <color name="kart_renk11">#F8E5E5</color>
+    <color name="kart_renk12">#F8E5EF</color>
+    <color name="kart_renk13">#E5E0F8</color>
+    <color name="kart_renk14">#E0EAF8</color>
+    <color name="kart_renk15">#E0F8F3</color>
+    <color name="kart_renk16">#EAF8E0</color>
+    <color name="kart_renk17">#F9F5E0</color>
+    <color name="kart_renk18">#F8EFE0</color>
+    <color name="kart_renk19">#DDEAF8</color>
+    <color name="kart_renk20">#E0F8EC</color>
+
+    <color name="kart_renk21">#F7DADA</color>
+    <color name="kart_renk22">#F7DAEA</color>
+    <color name="kart_renk23">#DDD6F7</color>
+    <color name="kart_renk24">#D6E4F7</color>
+    <color name="kart_renk25">#D6F7F0</color>
+    <color name="kart_renk26">#E4F7D6</color>
+    <color name="kart_renk27">#F7F0D6</color>
+    <color name="kart_renk28">#F7E8D6</color>
+    <color name="kart_renk29">#D0E4F7</color>
+    <color name="kart_renk30">#D6F7E8</color>
+
+    <color name="custom_pink">#D5749A</color>
+</resources>

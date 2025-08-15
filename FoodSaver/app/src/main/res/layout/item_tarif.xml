@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/tarifCardView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="6dp"
+    android:elevation="4dp"
+    android:foreground="?android:attr/selectableItemBackground"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:orientation="vertical"
+        android:padding="8dp"
+        android:minWidth="140dp">
+
+        <!-- Yemek Görseli -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp">
+
+            <ImageView
+                android:id="@+id/imageYemek"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:contentDescription="Yemek görseli" />
+
+            <ImageView
+                android:id="@+id/imageFavori"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_gravity="top|end"
+                android:layout_margin="6dp"
+                android:src="@drawable/boskalp"
+                android:contentDescription="Favori ikonu" />
+        </FrameLayout>
+
+        <!-- Yemek Adı -->
+        <TextView
+            android:id="@+id/textYemekAdi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Yemek Adı"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:textSize="12sp"
+            android:ellipsize="end"
+            android:maxLines="3"
+            android:gravity="center"
+            android:layout_marginTop="8dp" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

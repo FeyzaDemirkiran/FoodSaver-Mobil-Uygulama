@@ -1,0 +1,588 @@
+{
+  "Et Ürünleri": [
+    {
+      "ad": "Kıyma",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkiyma.jpeg?alt=media&token=6ef9eeba-de39-4a39-97d3-285c60c20762",
+      "muhafaza": "Kıymayı buzdolabında, 0-4°C arasında en fazla 1 gün saklayınız. Daha uzun süre için dondurucuda muhafaza ediniz."
+    },
+    {
+      "ad": "Biftek",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fbiftek.jpeg?alt=media&token=f08f0afe-1067-4b90-babe-a9b957f5f8fa",
+      "muhafaza": "Biftek buzdolabında 0-4°C'de 2 güne kadar saklanabilir. Tüketilmeyecekse dondurulmalıdır."
+    },
+    {
+      "ad": "Tavuk göğsü",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ftavukgogsu.jpeg?alt=media&token=3825e76a-7e39-4147-96ca-dfbaf2ebccc4",
+      "muhafaza": "Tavuk göğsü 0-4°C’de buzdolabında 1 gün, dondurucuda 3 aya kadar saklanabilir."
+    },
+    {
+      "ad": "Tavuk baget",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ftavukbaget.jpeg?alt=media&token=e8398995-2e18-4eea-885f-69c8bee776a7",
+      "muhafaza": "Tavuk baget buzdolabında 1 gün, dondurucuda 3 aya kadar saklanabilir. Çiğ temasından kaçının."
+    },
+    {
+      "ad": "Köfte",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkofte.jpeg?alt=media&token=f4f8d3d0-498f-453c-a5f3-1cbcc44b5d94",
+      "muhafaza": "Hazırlanmış köfte 0-4°C’de 24 saat saklanabilir. Pişirilmeden önce bu süre aşılmamalıdır."
+    },
+    {
+      "ad": "Kuşbaşı et",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkusbasi.jpeg?alt=media&token=8fe4c4eb-ccc8-4eaa-8ba6-77d051bb98ed",
+      "muhafaza": "Kuşbaşı et buzdolabında 2 güne kadar, dondurucuda ise 6 aya kadar saklanabilir."
+    },
+    {
+      "ad": "Antrikot",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fantrikot.jpeg?alt=media&token=b9a7f2e7-6738-4971-a104-1a8d42125774",
+      "muhafaza": "Antrikot buzdolabında 2 gün, dondurucuda 4-6 ay saklanabilir. Et suyunu kaybetmemesi için vakumlu şekilde tutulmalıdır."
+    },
+    {
+      "ad": "Tavuk kanat",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ftavukkanat.jpeg?alt=media&token=25708b67-1164-41e8-8895-2ce9159a5648",
+      "muhafaza": "Tavuk kanat buzdolabında 24 saat, dondurucuda ise 3 ay saklanabilir. Çiğ tüketilmemelidir."
+    },
+    {
+      "ad": "Kuzu incik",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkuzuincik.jpeg?alt=media&token=88ca351d-3258-41dd-8d66-670a31370580",
+      "muhafaza": "Kuzu incik buzdolabında 1-2 gün, derin dondurucuda 6 aya kadar muhafaza edilebilir."
+    },
+    {
+      "ad": "Bonfile",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fbonfile.jpeg?alt=media&token=0db25933-b2da-4dd8-88dc-00973b31d909",
+      "muhafaza": "Bonfile buzdolabında en fazla 2 gün, dondurucuda 4 ay saklanabilir."
+    },
+    {
+      "ad": "Tavuk şinitzel",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ftavuksinitzel.jpeg?alt=media&token=74a724fd-390f-4a49-8077-2fcf69f7dca6",
+      "muhafaza": "Pane tavuk ürünleri buzdolabında 0-4°C’de 1 gün, dondurucuda 2-3 ay saklanabilir. Pişirilmeden bekletilmemelidir."
+    }
+  ],
+
+  "Fırından": [
+    {
+      "ad": "Simit",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fsimit.jpeg?alt=media&token=c8698c0e-cadd-463f-b536-0f9bf1624c61",
+      "muhafaza": "Simit oda sıcaklığında 1 gün, buzdolabında 2 güne kadar saklanabilir. Hava almayan poşette muhafaza ediniz."
+    },
+    {
+      "ad": "Poğaça",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fpogaca.jpeg?alt=media&token=cc0a55c8-ef38-4a9f-a0b0-80f56cd84eeb",
+      "muhafaza": "Poğaçalar oda sıcaklığında 1 gün, buzdolabında 3 güne kadar saklanabilir. Isıtılarak tüketilmesi önerilir."
+    },
+    {
+      "ad": "Açma",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Facma.jpeg?alt=media&token=553d685f-d89b-42fa-a06f-8dfdde8a03f3",
+      "muhafaza": "Açma, streç filme sarılarak buzdolabında 2-3 güne kadar saklanabilir. Mikrodalgada ısıtarak tazeliği artırılabilir."
+    },
+    {
+      "ad": "Ekmek",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fekmek.jpeg?alt=media&token=8c66e523-047a-4f48-8f44-d563a588a66e",
+      "muhafaza": "Ekmek serin ve kuru bir ortamda 1-2 gün saklanabilir. Dondurularak 1 aya kadar muhafaza edilebilir."
+    },
+    {
+      "ad": "Kepekli ekmek",
+      "resimUrl": "https://console.firebase.google.com/u/0/project/fir-kullanimi-226f0/storage/fir-kullanimi-226f0.firebasestorage.app/files/~2FKategoriGorsel",
+      "muhafaza": "Kepekli ekmek buzdolabında 2-3 gün saklanabilir. Dondurularak 1 aya kadar muhafaza edilir."
+    },
+    {
+      "ad": "Çavdar ekmeği",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fcavdar.jpeg?alt=media&token=1d3faefb-46b6-4d90-a35f-a0fcd3370fb1",
+      "muhafaza": "Çavdar ekmeği tazeliğini uzun süre korur. Buzdolabında 3 güne kadar, dondurucuda 1 ay saklanabilir."
+    },
+    {
+      "ad": "Baget ekmek",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fbaget.jpeg?alt=media&token=9c756c73-b8e7-4ef9-a1ac-eb26ea901e2f",
+      "muhafaza": "Baget ekmek, dışı çıtır kalması için bez torbada saklanmalı. 1 gün içinde tüketilmesi önerilir."
+    },
+    {
+      "ad": "Sandviç ekmeği",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fsandvic.jpeg?alt=media&token=7599b48d-eebc-4fcc-ab84-7621e1629c77",
+      "muhafaza": "Sandviç ekmeği ambalajında buzdolabında 3-4 gün saklanabilir. Açıldıktan sonra hava geçirmez kapta tutulmalıdır."
+    },
+    {
+      "ad": "Kurabiye",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkurabiye.jpeg?alt=media&token=70cee574-dae1-40d6-be64-8f2744c5432d",
+      "muhafaza": "Kurabiyeler serin ve kuru ortamda 3-5 gün saklanabilir. Hava geçirmeyen kapta muhafaza ediniz."
+    },
+    {
+      "ad": "Lavaş",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Flavas.jpeg?alt=media&token=f5e74fbd-83a8-4508-8886-f41adc7a29be",
+      "muhafaza": "Lavaş, ambalajında buzdolabında 1 hafta saklanabilir. Açıldıktan sonra 3 gün içinde tüketilmelidir."
+    },
+    {
+      "ad": "Yufka",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fyufka.jpeg?alt=media&token=ccdd4630-aae4-4f8b-9e91-4d1f82538e4a",
+      "muhafaza": "Yufka buzdolabında 2-3 gün, dondurucuda 1 ay saklanabilir. Açıldıktan sonra kurumaması için streçle sarılmalıdır."
+    },
+    {
+      "ad": "Börek",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fborek.jpeg?alt=media&token=1066762d-7ccc-44b3-be7a-8b3208e853d6",
+      "muhafaza": "Börek buzdolabında 2 gün, pişmişse 1 güne kadar saklanabilir. Tazeliği için fırında ısıtılması önerilir."
+    },
+    {
+      "ad": "Pide",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fpide.jpeg?alt=media&token=97ad3116-6288-4ab4-8688-d5a77e420bec",
+      "muhafaza": "Pide, oda sıcaklığında 1 gün, buzdolabında 2-3 gün dayanır. Dondurularak 1 ay saklanabilir."
+    },
+    {
+      "ad": "Kek",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkek.jpeg?alt=media&token=ad847f80-4e64-4104-b932-60b70b810ef6",
+      "muhafaza": "Kek hava almayan kapta buzdolabında 3-4 gün saklanabilir. Oda sıcaklığında 1 gün dayanır."
+    }
+  ],
+
+
+
+
+  "Atıştırmalık": [
+    {
+      "ad": "Çikolata",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fcikolata.jpeg?alt=media&token=f3aee85e-2c83-4cdd-ae54-223cb0be5cbf",
+      "muhafaza": "Çikolata serin ve kuru bir ortamda, doğrudan güneş ışığından uzak şekilde 18-22°C arasında muhafaza edilmelidir."
+    },
+    {
+      "ad": "Cips",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fcips.jpeg?alt=media&token=a3631e69-89ff-4439-8176-253dcaf818e5",
+      "muhafaza": "Cipsler ambalajı açılmadığı sürece serin ve kuru ortamda saklanabilir. Açıldıktan sonra nem almaması için hava geçirmez kapta tutulmalıdır."
+    },
+    {
+      "ad": "Kraker",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkraker.jpeg?alt=media&token=9c5e2c71-28af-42e0-b751-0fb8ed4a7dd2",
+      "muhafaza": "Krakerler serin ve kuru ortamda saklanmalıdır. Açıldıktan sonra gevrekliğini koruması için sıkıca kapatılmalıdır."
+    },
+    {
+      "ad": "Gofret",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fgofret.jpeg?alt=media&token=c790015d-83da-4340-8343-b85d08d29894",
+      "muhafaza": "Gofretleri direkt güneş ışığından uzak, 18-22°C arası bir ortamda saklayınız. Açıldıktan sonra kısa sürede tüketilmelidir."
+    },
+
+
+    {
+      "ad": "Bisküvi",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fbisk%C3%BCvi.jpeg?alt=media&token=47d2ff3e-5407-484d-9731-e9c44c63191d",
+      "muhafaza": "Bisküviler kapalı ambalajında serin ortamda saklanmalıdır. Açıldıktan sonra tazeliğini koruması için hava geçirmez kapta tutulmalıdır."
+    },
+
+    {
+      "ad": "Çubuk kraker",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fcubukkraker.jpeg?alt=media&token=9318da69-7e01-44d8-b9ff-c38248e5ea1f",
+      "muhafaza": "Çubuk krakerler kuru ve serin ortamda saklanmalıdır. Açıldıktan sonra bayatlamaması için hava almaz kapta tutulmalıdır."
+    },
+    {
+      "ad": "Granola bar",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fgranola.jpeg?alt=media&token=e9cf0477-6b46-41e8-92bb-420c030f8f03",
+      "muhafaza": "Granola barlar 18-22°C aralığında, doğrudan güneşten uzak bir yerde saklanmalı, açıldıktan sonra kısa sürede tüketilmelidir."
+    }
+
+  ],
+
+
+
+
+
+  "Hazır & Donuk Gıda": [
+    {
+      "ad": "Dondurulmuş pizza",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fpizza.jpeg?alt=media&token=c7e179d3-03dc-45dc-bc48-82d333e045ba",
+      "muhafaza": "Dondurulmuş pizza -18°C’de derin dondurucuda saklanmalı, çözülmeden pişirilmelidir."
+    },
+    {
+      "ad": "Donuk köfte",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fdonukkofte.jpeg?alt=media&token=22b9153c-863b-466b-ae82-4fe3aa4347a7",
+      "muhafaza": "Donuk köfte -18°C’de saklanmalı, pişirilmeden önce çözülmesine gerek yoktur."
+    },
+    {
+      "ad": "Donmuş patates",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fpatates.jpeg?alt=media&token=9000f1cf-d33b-4670-9be7-93c7d7d113fa",
+      "muhafaza": "Donmuş patates -18°C’de dondurucuda muhafaza edilmeli, kızartılarak tüketilmelidir."
+    },
+    {
+      "ad": "Donmuş mantı",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fmanti.jpeg?alt=media&token=641a9044-3039-43fa-8d7a-29ca68bfe407",
+      "muhafaza": "Donmuş mantı -18°C’de saklanmalı, çözdürülmeden haşlanarak hazırlanmalıdır."
+    },
+    {
+      "ad": "Donmuş börek",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fborek%20(2).jpeg?alt=media&token=39c8a252-747e-42b2-8e50-35acab754994",
+      "muhafaza": "Donmuş börek -18°C’de dondurucuda saklanmalı, çözülmeden fırınlanmalıdır."
+    },
+    {
+      "ad": "Donmuş sigara böreği",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fsigaraboregi.jpeg?alt=media&token=a871eb71-e0d7-4603-8491-f68a6310ad78",
+      "muhafaza": "Sigara böreği donuk halde -18°C’de saklanmalı, çözdürmeden kızartılmalıdır."
+    },
+    {
+      "ad": "Dondurulmuş nugget",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fnugget.jpeg?alt=media&token=187e0aee-bf67-4f97-b64d-37b20ee94387",
+      "muhafaza": "Nugget ürünleri derin dondurucuda saklanmalı, yağda veya fırında kızartılarak tüketilmelidir."
+    },
+    {
+      "ad": "Donuk lahmacun",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Flahmacun.jpeg?alt=media&token=eb75fe54-4c6d-4d31-9036-919590feaa75",
+      "muhafaza": "Donuk lahmacun -18°C’de muhafaza edilmeli, çözdürmeden fırında ısıtılarak tüketilmelidir."
+    },
+    {
+      "ad": "Dondurulmuş milföy",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fmilf%C3%B6y.jpeg?alt=media&token=9a8a4e48-c9ed-4e81-bcb8-147430b33dd2",
+      "muhafaza": "Milföy hamuru -18°C’de saklanmalı, çözülmeden kullanılmalıdır. Ambalaj açıldıktan sonra hızla tüketilmelidir."
+    },
+    {
+      "ad": "Donuk içli köfte",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ficlik%C3%B6fte.jpeg?alt=media&token=57cb6161-8c93-4090-941d-7490ca63aab8",
+      "muhafaza": "İçli köfte derin dondurucuda saklanmalı, kızartılmadan önce çözdürülmemelidir."
+    }
+  ],
+
+
+
+  "Sağlıklı Yaşam": [
+    {
+      "ad": "Yulaf Ezmesi",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fyulaf.jpeg?alt=media&token=1112842a-41d2-4852-b84f-b7cc63e46275",
+      "muhafaza": "Yulaf ezmesi serin ve kuru yerde, hava geçirmeyen kapta saklanmalıdır. Raf ömrü 6 aydır."
+    },
+    {
+      "ad": "Badem",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fbadem.jpeg?alt=media&token=ed356860-5dfd-449a-8c89-f28466ed38c5",
+      "muhafaza": "Badem hava geçirmeyen bir kapta serin ve kuru yerde saklanmalıdır. Buzdolabında saklamak tazeliğini korur."
+    },
+    {
+      "ad": "Ceviz",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fceviz.jpeg?alt=media&token=a295eb9c-0d8e-421d-aefc-367c0531a450",
+      "muhafaza": "Ceviz içi serin ve kuru bir yerde, tercihen buzdolabında saklanmalıdır. 1-2 ay içinde tüketilmelidir."
+    },
+    {
+      "ad": "Chia Tohumu",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fchia.jpeg?alt=media&token=7a8ac666-f92a-446c-af21-22a73bb36340",
+      "muhafaza": "Chia tohumları hava geçirmeyen kapta, serin ve karanlık yerde saklanmalıdır. Raf ömrü 1 yıldır."
+    },
+    {
+      "ad": "Glutensiz Ekmek",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fglutensizekmek.jpeg?alt=media&token=d9df7981-086a-495d-866e-93dfe8e0c4b7",
+      "muhafaza": "Glutensiz ekmek buzdolabında 2-3 gün saklanabilir. Dondurularak daha uzun süre muhafaza edilir."
+    },
+    {
+      "ad": "Şekersiz Müsli",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fmusli.jpeg?alt=media&token=9e7ce053-7c27-4f14-955a-623cfd81daf7",
+      "muhafaza": "Şekersiz müsli serin ve kuru yerde, kapalı bir kapta 3 aya kadar tazeliğini korur."
+    },
+    {
+      "ad": "Vegan Süt",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fvegansut.jpeg?alt=media&token=69edbe11-6218-4210-915f-53f0b336e180",
+      "muhafaza": "Açılmamış vegan süt oda sıcaklığında saklanabilir. Açıldıktan sonra buzdolabında 3-5 gün içinde tüketilmelidir."
+    },
+    {
+      "ad": "Nohut Cipsi",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fnohutcipsi.jpeg?alt=media&token=842f0629-f63f-4b53-ad9b-d40b08d16325",
+      "muhafaza": "Nohut cipsi serin ve kuru yerde, ambalajı kapalı şekilde saklanmalıdır. Açıldıktan sonra 1 hafta içinde tüketilmelidir."
+    },
+    {
+      "ad": "Kefir",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkefir.jpeg?alt=media&token=5faa593b-e99c-464e-b203-7e32bb1c30d1",
+      "muhafaza": "Kefir buzdolabında +4°C’de saklanmalı ve açıldıktan sonra 2-3 gün içinde tüketilmelidir."
+    }
+  ],
+
+
+  "Sebze & Meyve": [
+    {
+      "ad": "Elma",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Felma.jpeg?alt=media&token=6c744462-1fa9-489e-913b-8ba9bae01c9b",
+      "muhafaza": "Elmalar serin ve kuru bir yerde ya da buzdolabında 1-2 hafta saklanabilir."
+    },
+    {
+      "ad": "Muz",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fmuz.jpeg?alt=media&token=b327312c-c0a6-4686-8778-c36d6f7f3c4a",
+      "muhafaza": "Muz oda sıcaklığında saklanmalı, buzdolabına konulmamalıdır. Olgunlaşınca tüketilmelidir."
+    },
+    {
+      "ad": "Portakal",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fportakal.jpeg?alt=media&token=62b762a1-1ee7-4339-8b82-e45d99d3adb1",
+      "muhafaza": "Portakallar serin bir ortamda ya da buzdolabında 1-2 hafta tazeliğini korur."
+    },
+    {
+      "ad": "Mandalina",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fmandalina.jpeg?alt=media&token=dc38a37d-90f0-4711-9c40-fdab26c4d1a0",
+      "muhafaza": "Mandalinalar buzdolabında 1 hafta, oda sıcaklığında birkaç gün saklanabilir."
+    },
+    {
+      "ad": "Salatalık",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fsalatalik.jpeg?alt=media&token=dbe0b236-e6f4-42ed-bf88-66b7330b1521",
+      "muhafaza": "Salatalık buzdolabında 3-4 gün dayanır. Kurumaması için poşetle saklanmalıdır."
+    },
+    {
+      "ad": "Domates",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fdomates.jpeg?alt=media&token=cd02debb-1227-4b3b-bac1-6d6b35fb2327",
+      "muhafaza": "Domates oda sıcaklığında saklanmalı, buzdolabında aromasını kaybedebilir."
+    },
+    {
+      "ad": "Patates",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fpatates%20(2).jpeg?alt=media&token=d32316a4-4496-44c1-af0d-d471fa7ac633",
+      "muhafaza": "Patatesler kuru, karanlık ve serin bir yerde saklanmalıdır. Buzdolabı önerilmez."
+    },
+    {
+      "ad": "Soğan",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fsogan.jpeg?alt=media&token=f16734e0-c5ea-47b9-8118-c35fb55be04e",
+      "muhafaza": "Soğan kuru ve serin bir ortamda, hava alabilen bir yerde muhafaza edilmelidir."
+    },
+    {
+      "ad": "Sarımsak",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fsarimsak.jpeg?alt=media&token=86a4b5dd-213e-493d-a38d-f5a480aa15a1",
+      "muhafaza": "Sarımsak kuru ve karanlık bir yerde uzun süre saklanabilir. Buzdolabına konulmamalıdır."
+    },
+    {
+      "ad": "Havuç",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fhavuc.jpeg?alt=media&token=4b0ad1a8-72d3-4332-817e-04b38be2bcc2",
+      "muhafaza": "Havuç buzdolabında 1 hafta boyunca tazeliğini koruyabilir. Poşette saklanması önerilir."
+    },
+    {
+      "ad": "Karpuz",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkarpuz.jpeg?alt=media&token=58f15760-771d-4ebe-918b-285839149ae1",
+      "muhafaza": "Karpuz dilimlenmeden önce serin yerde, kesildikten sonra buzdolabında 2-3 gün saklanmalıdır."
+    },
+    {
+      "ad": "Kavun",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkavun.jpeg?alt=media&token=588b01e7-a390-4d11-888d-cbade4a25383",
+      "muhafaza": "Kavun oda sıcaklığında olgunlaşmalı, kesildikten sonra buzdolabında saklanmalıdır."
+    },
+    {
+      "ad": "Çilek",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fcilek.jpeg?alt=media&token=0ed68a16-3994-4233-8d25-8702517f2a14",
+      "muhafaza": "Çilekler buzdolabında 1-2 gün içinde tüketilmelidir. Yıkamadan saklayınız."
+    },
+    {
+      "ad": "Kiraz",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkiraz.jpeg?alt=media&token=cf76d8f7-9f97-420c-89f4-17c5048342c8",
+      "muhafaza": "Kirazlar buzdolabında 2-3 gün dayanır. Tüketmeden önce yıkanmalıdır."
+    },
+    {
+      "ad": "Biber",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fbiber.jpeg?alt=media&token=52d4ba51-75f3-4b31-acd5-a55cee25bbf9",
+      "muhafaza": "Biber buzdolabında 3-5 gün saklanabilir. Plastik poşette nemsiz ortamda tutulmalıdır."
+    },
+    {
+      "ad": "Marul",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fmarul.jpeg?alt=media&token=35c829ae-46fc-4187-928f-cdd41dd52c8e",
+      "muhafaza": "Marul buzdolabında 2-3 gün dayanır. Kağıt havluya sararak saklayınız."
+    },
+    {
+      "ad": "Maydanoz",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fmaydanoz.jpeg?alt=media&token=174d78c0-10f5-47aa-8ec8-9eabd09bec3b",
+      "muhafaza": "Maydanoz sapları suya konarak buzdolabında birkaç gün taze tutulabilir."
+    },
+    {
+      "ad": "Roka",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Froka.jpeg?alt=media&token=6d005852-6e91-4e98-8c1a-b9ccca92b364",
+      "muhafaza": "Roka yıkanmadan buzdolabında 2-3 gün saklanabilir. Nemsiz ortamda muhafaza ediniz."
+    },
+    {
+      "ad": "Ispanak",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fispanak.jpeg?alt=media&token=2a13c878-8ca9-4def-9089-6f9b61c2bfd3",
+      "muhafaza": "Ispanak buzdolabında 2-3 gün tazeliğini korur. Yıkamadan poşetle saklanmalıdır."
+    },
+    {
+      "ad": "Nane",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fnane.jpeg?alt=media&token=590c861d-34e9-4c7f-a446-dfb19d708aa2",
+      "muhafaza": "Taze nane sapıyla birlikte buzdolabında saklanmalı, su dolu bardağa konabilir."
+    }
+  ],
+
+
+
+
+
+
+  "Süt & Kahvaltılık": [
+    {
+      "ad": "Süt (tam yağlı)",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fyagl%C4%B1sut.jpeg?alt=media&token=37371ae1-3105-4508-a489-9221c16ad217",
+      "muhafaza": "Tam yağlı süt buzdolabında 0-4°C'de saklanmalı, açıldıktan sonra 2-3 gün içinde tüketilmelidir."
+    },
+    {
+      "ad": "Süt (yağsız)",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fyagsizsut.jpeg?alt=media&token=bed34868-7971-464a-8c15-f135cc50cd39",
+      "muhafaza": "Yağsız süt buzdolabında 0-4°C’de muhafaza edilmeli, açıldıktan sonra 2 gün içinde tüketilmelidir."
+    },
+    {
+      "ad": "Yoğurt",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fyogurt.jpeg?alt=media&token=d674a41f-1521-4dff-940e-e652ddacb0e1",
+      "muhafaza": "Yoğurt buzdolabında saklanmalı ve açıldıktan sonra 3-4 gün içinde tüketilmelidir. Üzeri açık kalmamalıdır."
+    },
+    {
+      "ad": "Tereyağı",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ftereyag.jpeg?alt=media&token=bbca81bc-d698-495f-b7a0-1862d3474276",
+      "muhafaza": "Tereyağı buzdolabında hava almayacak şekilde muhafaza edilmelidir. Derin dondurucuda 6 aya kadar dayanır."
+    },
+    {
+      "ad": "Beyaz peynir",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fbeyazpeynir.jpeg?alt=media&token=029580af-911a-45e7-b405-133ae3f2da66",
+      "muhafaza": "Beyaz peynir buzdolabında salamura suyuyla birlikte saklanmalı ve 1 hafta içinde tüketilmelidir."
+    },
+    {
+      "ad": "Kaşar peyniri",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkasar.jpeg?alt=media&token=5197aee3-d42b-46d3-9f4b-7185366ff41f",
+      "muhafaza": "Kaşar peyniri buzdolabında hava almayan şekilde saklanmalı, açıldıktan sonra 5-7 gün içinde tüketilmelidir."
+    },
+    {
+      "ad": "Süzme peynir",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fsuzmepeynir.jpeg?alt=media&token=67f93bff-2b19-4a99-a09c-6aff2e9ff0bd",
+      "muhafaza": "Süzme peynir +4°C'de buzdolabında saklanmalı, açıldıktan sonra 2-3 gün içinde tüketilmelidir."
+    },
+    {
+      "ad": "Bal",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fbal.jpeg?alt=media&token=d15d5ece-4e89-4712-84a0-c841592b6167",
+      "muhafaza": "Bal serin, kuru ve karanlık bir yerde saklanmalıdır. Buzdolabına konmamalıdır."
+    },
+    {
+      "ad": "Reçel (çilek)",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fcilekreceli.jpeg?alt=media&token=e266e285-cb44-430a-ba0c-5879ea416ba9",
+      "muhafaza": "Reçel açılmadan serin yerde, açıldıktan sonra buzdolabında saklanmalı ve 1 ay içinde tüketilmelidir."
+    },
+    {
+      "ad": "Fındık kreması",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ffindikkremasi.jpeg?alt=media&token=3f21f262-f0b4-4f7d-a5a9-faa9f90a502b",
+      "muhafaza": "Fındık kreması serin ve kuru yerde saklanmalı, açıldıktan sonra kapağı sıkıca kapatılmalıdır."
+    },
+    {
+      "ad": "Zeytin (siyah)",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fzeytin.jpeg?alt=media&token=f43d3dc4-47b0-4783-9915-6250a8615e19",
+      "muhafaza": "Siyah zeytin buzdolabında kendi salamura suyu içinde saklanmalı ve serin ortamda tutulmalıdır."
+    },
+    {
+      "ad": "Tahin",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ftahin.jpeg?alt=media&token=58deadbe-10ec-4c4d-9dc3-62331da709b0",
+      "muhafaza": "Tahin serin ve kuru yerde muhafaza edilmelidir. Açıldıktan sonra buzdolabında saklanması önerilir."
+    },
+    {
+      "ad": "Pekmez",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fpekmez.jpeg?alt=media&token=5cdb4669-af87-4187-8d7c-a109a7dba046",
+      "muhafaza": "Pekmez güneş ışığı görmeyen serin ortamda saklanmalı, açıldıktan sonra kapağı sıkıca kapatılmalıdır."
+    },
+    {
+      "ad": "Yumurta",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fyumurta.jpeg?alt=media&token=58793c19-1be6-4bac-853a-51deaea7bd78",
+      "muhafaza": "Yumurta buzdolabında 4°C civarında saklanmalı ve yıkanmadan muhafaza edilmelidir. 2-3 hafta içinde tüketilmelidir."
+    }
+  ],
+
+
+  "Şarküteri": [
+    {
+      "ad": "Sucuk",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fsucuk.jpeg?alt=media&token=c745fd72-a5ab-43b0-870c-cb1f72839d0a",
+      "muhafaza": "Sucuk buzdolabında, orijinal ambalajında ya da hava geçirmez saklama kabında 0-4°C’de muhafaza edilmelidir. Açıldıktan sonra en geç bir hafta içinde tüketilmelidir."
+    },
+    {
+      "ad": "Salam",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fsalam.jpeg?alt=media&token=43e394d2-bc86-4575-bd1a-49c41631e2ad",
+      "muhafaza": "Salam, buzdolabında saklanmalı ve açıldıktan sonra maksimum 3-4 gün içinde tüketilmelidir. Açıkta bırakılmamalıdır."
+    },
+
+    {
+      "ad": "Füme et",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ff%C3%BCmeet.jpeg?alt=media&token=2777d929-e767-41b3-a6f8-8ecb6855d960",
+      "muhafaza": "Füme et, vakumlu ambalajında buzdolabında saklanmalı, açıldıktan sonra birkaç gün içinde tüketilmelidir. Güneşten uzak tutulmalıdır."
+    },
+    {
+      "ad": "Pastırma",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fpastirma.jpeg?alt=media&token=ed75e902-e993-4a9d-bfc6-76d1de1b5791",
+      "muhafaza": "Pastırma, buzdolabında saklanmalı, üzerine nem geçirmemesi için streç film sarılmalı ve 3-5 gün içinde tüketilmelidir."
+    },
+    {
+      "ad": "Hindi füme",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fhindif%C3%BCme.jpeg?alt=media&token=c0d5ddb8-7cd0-4736-8d83-6eff653d8aad",
+      "muhafaza": "Hindi füme ürünleri, buzdolabında +4°C’de tutulmalı ve ambalajı açıldıktan sonra maksimum 3 gün içinde tüketilmelidir."
+    },
+    {
+      "ad": "Dil peyniri",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fdilpeyniri.jpeg?alt=media&token=7eb54659-c037-4505-8e76-a1879cf81807",
+      "muhafaza": "Dil peyniri buzdolabının peynir rafında, hava geçirmez kapta ya da orijinal ambalajında saklanmalıdır."
+    },
+    {
+      "ad": "Sosis",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fsosis.jpeg?alt=media&token=a3c86c12-45bc-4acd-8658-00043b887cc0",
+      "muhafaza": "Sosisler buzdolabında +4°C’de muhafaza edilmeli ve açıldıktan sonra 3 gün içinde pişirilerek tüketilmelidir."
+    },
+    {
+      "ad": "Cheddar peyniri",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fcheddar.jpeg?alt=media&token=8c3e9fa7-4424-471b-bc7b-5001dbecf01f",
+      "muhafaza": "Cheddar peyniri buzdolabında saklanmalı, açıldıktan sonra hava geçirmez bir kapta 1 hafta içinde tüketilmelidir."
+    }
+
+  ],
+
+
+
+  "Temel Gıda": [
+    {
+      "ad": "Pirinç",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fpirinc.jpeg?alt=media&token=ad697313-1d7e-48a3-a281-6e8b74604df3",
+      "muhafaza": "Pirinç serin, kuru ve karanlık yerde ağzı kapalı şekilde saklanmalıdır. Uzun süre tazeliğini korur."
+    },
+    {
+      "ad": "Bulgur",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fbulgur.jpeg?alt=media&token=5b80839a-c4b4-436e-867b-c1a7e76205c4",
+      "muhafaza": "Bulgur hava almayan bir kapta, serin ve kuru ortamda saklanmalıdır. Nemsiz ortamda uzun süre dayanır."
+    },
+    {
+      "ad": "Makarna",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fmakarna.jpeg?alt=media&token=ecea1bad-0ce2-4396-8d1e-e112881c653f",
+      "muhafaza": "Makarna ambalajında ya da hava geçirmez kapta, kuru ve serin yerde saklanmalıdır. Raf ömrü uzundur."
+    },
+    {
+      "ad": "Mercimek (kırmızı)",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkirmizimercimek.jpeg?alt=media&token=3bb1cc3c-ce8b-4b25-a860-f8a81ac47b30",
+      "muhafaza": "Kırmızı mercimek kuru, serin ve karanlık bir ortamda saklanmalı, böceklenmeyi önlemek için kapalı tutulmalıdır."
+    },
+    {
+      "ad": "Mercimek (yeşil)",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fyesilmercimek.jpeg?alt=media&token=be9b70ed-02d8-474d-a1ff-f0975306e154",
+      "muhafaza": "Yeşil mercimek cam kavanozda veya bez torbada kuru bir yerde muhafaza edilmelidir."
+    },
+    {
+      "ad": "Nohut",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fnohut.jpeg?alt=media&token=9c42fe92-1346-4b0c-b8b2-fa3957ac6aeb",
+      "muhafaza": "Nohut serin ve kuru ortamda cam kavanozda veya bez torbada saklanmalıdır. Güneş ışığından uzak tutunuz."
+    },
+    {
+      "ad": "Kuru fasulye",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkurufasulye.jpeg?alt=media&token=e716b584-3fca-4907-b433-c15b63ca33b0",
+      "muhafaza": "Kuru fasulye hava almayan bir kapta, nemsiz ve serin yerde muhafaza edilmelidir."
+    },
+    {
+      "ad": "Şeker",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fseker.jpeg?alt=media&token=adf4d224-6d48-4660-90a7-7f3b66d41611",
+      "muhafaza": "Şeker kuru ortamda, hava almayan kapta saklanmalı; nemden korunmalıdır."
+    },
+    {
+      "ad": "Tuz",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ftuz.jpeg?alt=media&token=ac9b16d6-8bbd-404c-bf88-300514d331cd",
+      "muhafaza": "Tuz nem almayan, kuru ve serin bir ortamda kapalı şekilde muhafaza edilmelidir."
+    },
+    {
+      "ad": "Un",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fun.jpeg?alt=media&token=6f710709-dbf3-48bd-ba66-9c3d40f7b344",
+      "muhafaza": "Un nemsiz ortamda ağzı kapalı şekilde saklanmalıdır. Güneş ışığından uzak tutulmalıdır."
+    },
+    {
+      "ad": "Zeytinyağı",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fzeytinyag%C4%B1.jpeg?alt=media&token=d388c0e6-4e21-4e6e-9546-878310370893",
+      "muhafaza": "Zeytinyağı cam şişede, serin ve karanlık bir ortamda saklanmalıdır. Isı ve ışık kaliteyi bozar."
+    },
+    {
+      "ad": "Ayçiçek yağı",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Faycicekyag%C4%B1.jpeg?alt=media&token=98673eec-61a4-4651-a5af-211025f9b929",
+      "muhafaza": "Ayçiçek yağı kapağı kapalı olarak güneş görmeyen yerde muhafaza edilmelidir."
+    },
+    {
+      "ad": "Salça",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fsalca.jpeg?alt=media&token=acf3ebfb-1511-4c90-941c-b402758c2892",
+      "muhafaza": "Salça açıldıktan sonra buzdolabında saklanmalı, üzeri zeytinyağı ile kaplanarak korunmalıdır."
+    },
+    {
+      "ad": "Mısır unu",
+      "resimUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fmisirunu.jpeg?alt=media&token=f6cbc0ff-5f8d-42ad-b1cd-c5e085441733",
+      "muhafaza": "Mısır unu kuru, serin ve hava almayan kapta muhafaza edilmelidir. Neme karşı korunmalıdır."
+    }
+  ]
+
+}

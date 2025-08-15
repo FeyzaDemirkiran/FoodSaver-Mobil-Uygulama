@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Anasayfa"
+        android:icon="@drawable/hesabimikon" />
+
+    <item
+        android:id="@+id/nav_tarif"
+        android:title="Tarifler"
+        android:icon="@drawable/tarif" />
+
+    <item
+        android:id="@+id/nav_urunlerim"
+        android:title="Ürünlerim"
+        android:icon="@drawable/urunlerim" />
+
+    <item
+        android:id="@+id/nav_muhafaza"
+        android:title="Gıda Muhafaza Rehberi"
+        android:icon="@drawable/muhafaza" />
+
+    <item
+        android:id="@+id/nav_favoriler"
+        android:title="Favori Yemek Tarifleri"
+        android:icon="@drawable/favoriikon" />
+
+
+
+
+
+
+
+
+
+
+</menu>

@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/anasayfaikonn"
+        android:icon="@drawable/anasayfaikon"
+        android:title="Anasayfa" />
+    <item
+        android:id="@+id/eklemeikonn"
+        android:icon="@drawable/eklemeikonu"
+        android:title="Ekle" />
+    <item
+        android:id="@+id/favoriikonn"
+        android:icon="@drawable/favoriikon"
+        android:title="Kategori" />
+    <item
+        android:id="@+id/hesabimikonn"
+        android:icon="@drawable/hesabimikon"
+        android:title="Hesabım" />
+</menu>

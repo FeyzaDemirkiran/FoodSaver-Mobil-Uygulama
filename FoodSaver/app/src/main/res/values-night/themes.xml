@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Temanın temel yapısı -->
+    <style name="Base.Theme.FoodSaver" parent="Theme.Material3.DayNight">
+        <!-- Tema özelleştirmelerini buraya ekle -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item> <!-- ikonlar siyah olsun -->
+    </style>
+
+    <!-- Uygulamanın kullanacağı tema -->
+    <style name="Theme.FoodSaver" parent="Base.Theme.FoodSaver" />
+
+</resources>

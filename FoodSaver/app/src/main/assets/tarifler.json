@@ -1,0 +1,154 @@
+{
+  "tarifler": [
+
+       {
+        "yemekAdi": "Biber Dolması",
+        "malzemeler": "pirinç, dolmalık biber, soğan, salça, zeytinyağı, baharatlar",
+        "gorselUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fbiberdolmasi.jpeg?alt=media&token=e458c983-3537-4707-b711-be0dd9f174d6",
+        "yapilis": "Malzemeler:\n\n•6 adet dolmalık biber\n\n•1 su bardağı pirinç\n\n•1 adet soğan\n\n•1 yemek kaşığı salça\n\n•3 yemek kaşığı zeytinyağı\n\n•1 çay kaşığı kararbiber, pul biber, nane\n\n•1 tatlı kaşığı tuz\n\n•1 su bardağı su\n\nYapılışı:\n\nSoğanı yemeklik doğrayın ve zeytinyağında pembeleşene kadar kavurun. Ardından salçayı ekleyip 1-2 dakika kavurun. Yıkanmış pirinci ilave edin, 5 dakika kadar kavurup baharatları ekleyin. İç harcın üzerine 1 su bardağı su ekleyip suyunu çekene kadar pişirin. Biberlerin içini temizleyip hazırladığınız harçla doldurun. Tencereye dizip üzerlerine domates dilimi kapatın. 1,5 su bardağı sıcak su ekleyip kısık ateşte pişirin.",
+        "besinDegeri": "•Kalori:200-250kcal\n•Karbonhidrat:35-40g\n•Protein:4-6g\n•Yağ:5-7g\n•Lif:2-4g\n•Sodyum:250-400g",
+        "ipuclari": "•Biberlerin alt kısmına kürdan batırarak fazla suyun çıkmasını sağlayın.\n•İç harca nane ve kimyon eklemek sindirimi kolaylaştırır.\n•Biberleri çok sıkı doldurmayın, pirinçler şişecektir.\n•Zeytinyağını pişirme suyuna da ekleyin.\n•Limon suyu eklerseniz lezzeti artar ve ferahlık verir.",
+        "favori": false
+
+    },
+
+     {
+      "yemekAdi": "Pirinç Pilavı",
+      "malzemeler": "pirinç, tereyağı, tuz, su",
+      "gorselUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fpirincpilavi.jpeg?alt=media&token=99a4e0cc-f956-4376-95ce-4bcf29d3e551",
+      "yapilis": "Malzemeler:\n\n•1 su bardağı baldo pirinç\n\n•1,5 su bardağı sıcak su\n\n•1 yemek kaşığı tereyağı\n\n• yemek kaşığı sıvı yağ\n\n•Tuz\n\nYapılışı:\nPirinci tuzlu sıcak suda 20 dakika bekletin. İyice yıkayıp süzün. Tencereye yağları alın, pirinci ekleyip şeffaflaşana kadar kavurun. Üzerine sıcak suyu ve tuzu ekleyip kapağını kapatın. Önce yüksek sonra kısık ateşte suyunu çekene kadar pişirin. Altını kapatıp 10 dakika demlendirin.",
+      "besinDegeri": "•Kalori:250-300kcal\n•Karbonhidrat:50-55g\n•Protein:3-4g\n•Yağ:5-6g\n•Lif:0-1g\n•Sodyum:200-350g",
+      "ipuclari": "•Pirinci tuzlu sıcak suda bekletmek nişastayı azaltır.\n•Tane tane olması için kavurma süresini iyi ayarlayın.\n•Tencerenin kapağını pişirme sırasında açmayın.\n•Demlendirme sırasında üzerine havlu kâğıt kapatın.\n•Tereyağını pilav piştikten sonra eklemek lezzet katar.",
+      "favori": false
+    }
+  ,
+    {
+      "yemekAdi": "Sütlaç",
+      "malzemeler": "pirinç, süt, şeker, vanilin",
+      "gorselUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fsutlac.jpeg?alt=media&token=b87328c4-5fcb-4575-ad82-bc7d7d16dcfe",
+      "yapilis": "Malzemeler:\n\n•1 çay bardağı pirinç\n\n•1 litre süt\n\n•1 su bardağı toz şeker\n\n•1 paket vanilin\n\n•2 su bardağı su\n\nYapılışı:\nPirinçleri yıkayıp 2 bardak su ile haşlayın. Suyunu çektikten sonra sütü ekleyin. Kaynamaya başlayınca şekeri ilave edin. 15-20 dakika kısık ateşte pişirin. Ocaktan almadan hemen önce vanilin ekleyin. Kaselere paylaştırın, oda sıcaklığında soğutup buzdolabında dinlendirin.",
+      "besinDegeri": "•Kalori:180-220kcal\n•Karbonhidrat:35-45g\n•Protein:5-7g\n•Yağ:3-5g\n•Lif:0-1g\n•Sodyum:50-100g",
+      "ipuclari": "•Sütlacı daha yoğun kıvamlı seviyorsanız pişirme süresini uzatın.\n•Şekerli tadın daha hafif olması için şeker miktarını azaltabilirsiniz.\n•Pirinçleri iyice haşlamak kıvamı etkiler.\n•Soğutmadan önce karıştırmayın, üst kabuğun oluşmasını engelleyebilir.\n•Üzerine tarçın veya fındık serpiştirerek sunum yapabilirsiniz.",
+      "favori": false
+    }
+  ,
+     {
+      "yemekAdi": "Patatesli Börek",
+      "malzemeler": "yufka, haşlanmış patates, soğan, sıvı yağ, tuz, karabiber, pul biber, yumurta sarısı",
+      "gorselUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fpatatesliborek.jpeg?alt=media&token=73831c8f-e4ce-499c-90a9-e97312cc8d1f",
+      "yapilis": "Malzemeler:\n\n•3 adet haşlanmış patates\n\n•1 adet soğan\n\n•3 adet yufka\n\n•1 çay bardağı sıvı yağ\n\n•Tuz, karabiber, pul biber\n\n•1 adet yumurta sarısı\n\nYapılışı:\nSoğanı ince doğrayıp yağda kavurun. Haşlanmış patatesi ezip soğanla karıştırın, baharat ekleyin. Yufkayı serip üçgenler kesin. Geniş kısmına iç harcı koyup rulo şeklinde sarın. Üzerine yumurta sarısı sürüp 180°C fırında altı üstü kızarana kadar pişirin.\n",
+      "besinDegeri": "•Kalori:300-350kcal\n•Karbonhidrat:35-40g\n•Protein:5-7g\n•Yağ:15-18g\n•Lif:2-3g\n•Sodyum:300-400g",
+      "ipuclari": "•Patatesleri ezmeden önce iyice soğutun.\n•İç harca taze nane veya maydanoz ekleyebilirsiniz.\n•Yufkayı çok yağlamadan böreği hafif tutabilirsiniz.\n•Üzerine susam veya çörek otu serpmeyi unutmayın.\n•Kızarınca fırından alıp üzerini bezle örtün, daha yumuşak olur.",
+      "favori": false
+    }
+  ,
+     {
+      "yemekAdi": "Kumpir",
+      "malzemeler": "büyük boy patates, tereyağı, kaşar peyniri, mısır, sosis, zeytin, turşu, bezelye, mayonez, ketçap",
+      "gorselUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkumpir.png?alt=media&token=3e1f0332-4aee-45e1-a989-beab8d395d89",
+      "yapilis": "Malzemeler:\n\n•2 büyük patates\n\n•1 yemek kaşığı tereyağı\n\n•1 su bardağı rendelenmiş kaşar\n\n•Mısır, bezelye, turşu, zeytin, sosis\n\n•Ketçap, mayonez\n\nYapılışı:\nPatatesleri yumuşayana kadar fırında pişirin. Ortalarını açıp tereyağı ve kaşar ile karıştırarak ezip püre haline getirin. Üzerine istediğiniz malzemeleri yerleştirip ketçap ve mayonezle servis edin.\n",
+      "besinDegeri": "•Kalori:400-500kcal\n•Karbonhidrat:45-55g\n•Protein:10-12g\n•Yağ:18-22g\n•Lif:5-7g\n•Sodyum:600-800g",
+      "ipuclari": "•Patatesleri fırında kabuklarıyla birlikte uzun sürede pişirin.\n•Ezme işlemini sıcakken yapın, kaşar daha iyi erir.\n•İçine yoğurt veya labne ekleyerek daha kremamsı bir tat elde edebilirsiniz.\n•Malzemeleri çeşitlendirerek besin değerini artırabilirsiniz.\n•Servis öncesi üzerine taze yeşillik ekleyin.",
+      "favori": false
+    }
+  ,
+     {
+      "yemekAdi": "Patates Salatası",
+      "malzemeler": "haşlanmış patates, maydanoz, taze soğan, limon suyu, zeytinyağı, tuz, pul biber",
+      "gorselUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fpatatessalatasi.jpeg?alt=media&token=eaceadc0-6ecb-46e3-b220-74fb97dcb023",
+      "yapilis": "Malzemeler:\n\n•4 adet haşlanmış patates\n\n•4 dal taze soğan\n\n•1/2 demet maydanoz\n\n•1 limon suyu\n\n•3 yemek kaşığı zeytinyağı\n\n•Tuz, pul biber\n\nYapılışı:\nHaşlanmış patatesleri küp doğrayın. Taze soğan ve maydanozu ince doğrayın. Hepsini derin bir kapta karıştırın. Limon suyu, zeytinyağı ve baharatları ekleyip harmanlayın.",
+      "besinDegeri": "•Kalori:180-220kcal\n•Karbonhidrat:25-30g\n•Protein:2-3g\n•Yağ:8-10g\n•Lif:3-5g\n•Sodyum:200-300g",
+      "ipuclari": "•Patatesleri fazla haşlamamaya dikkat edin, dağılabilir.\n•Salatayı hazırladıktan sonra 15 dakika dinlendirerek lezzetlerin oturmasını sağlayın.\n•Zeytinyağını limon suyuyla birlikte ekleyin, daha homojen dağılır.\n•İsteğe göre içine haşlanmış yumurta veya mısır ekleyebilirsiniz.\n•Servis öncesi taze nane veya dereotu ile süsleyin.",
+      "favori": false
+    }
+  , {
+      "yemekAdi": "Yoğurt Çorbası",
+      "malzemeler": "yoğurt, pirinç, un, yumurta, nane, tereyağı, tuz",
+      "gorselUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fyogurtcorbasi.jpeg?alt=media&token=9412c6c8-e7ff-4054-a3f8-4b4b8c276663",
+      "yapilis": "Malzemeler:\n\n•1 su bardağı yoğurt\n\n•1 yemek kaşığı un\n\n•1 yumurta\n\n•4 su bardağı su\n\n•1/4 su bardağı pirinç\n\n•1 yemek kaşığı tereyağı\n\n•1 tatlı kaşığı nane\n\nYapılışı:\nYoğurt, yumurta ve unu tencerede çırpın. Su ekleyip karıştırarak kaynatın. Yıkanmış pirinci ekleyin. Kısık ateşte pirinçler yumuşayana kadar pişirin. Tereyağında nane kızdırıp üzerine gezdirin.",
+      "besinDegeri": "•Kalori:120-160kcal\n•Karbonhidrat:15-20g\n•Protein:4-6g\n•Yağ:4-6g\n•Lif:1-2g\n•Sodyum:250-350g",
+      "ipuclari": "•Yoğurdu çorbaya eklemeden önce oda sıcaklığında bekletin.\n•Kesilmemesi için sürekli karıştırarak ısıtın.\n•Un ve yumurta karışımını iyi çırpın, topaklanma olmasın.\n•Servisten hemen önce tereyağlı nane sosunu dökün.\n•Çorba piştikten sonra kapağı kapalı şekilde biraz dinlendirin.",
+      "favori": false
+    }
+  ,
+     {
+      "yemekAdi": "Yoğurtlu Kabak Salatası",
+      "malzemeler": "kabak, yoğurt, sarımsak, zeytinyağı, tuz, dereotu",
+      "gorselUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fkabaksalatasi.png?alt=media&token=86b24e19-4d29-4b55-a7a3-a3ac43a8bf61",
+      "yapilis": "Malzemeler:\n\n•2 adet kabak\n\n•1 su bardağı yoğurt\n\n•1 diş sarımsak\n\n•1 yemek kaşığı zeytinyağı\n\n•Tuz, dereotu\n\nYapılışı:\nKabakları rendeleyin ve yağda kavurun. Soğuyunca ezilmiş sarımsaklı yoğurtla karıştırın. Üzerine dereotu serpip servis edin.\n",
+      "besinDegeri": "•Kalori:100-130kcal\n•Karbonhidrat:6-8g\n•Protein:4-6g\n•Yağ:6-8g\n•Lif:2-3g\n•Sodyum:150-250g",
+      "ipuclari": "•Kabakları rendeledikten sonra suyunu sıkın, sulanmayı önler.\n•Sarımsak miktarını damak zevkine göre ayarlayın.\n•Yoğurdun süzme olması kıvamı daha yoğun tutar.\n•Üzerine ceviz veya zeytin ekleyerek çeşitlendirebilirsiniz.\n•Servis öncesi buzdolabında 15-20 dakika bekletin.",
+      "favori": false
+    }
+  ,
+     {
+      "yemekAdi": "Haydari",
+      "malzemeler": "süzme yoğurt, sarımsak, dereotu, zeytinyağı, nane, tuz",
+      "gorselUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Fhaydari.jpeg?alt=media&token=33d2693a-efda-470a-bc1c-3451c73ca6bb",
+      "yapilis": "Malzemeler:\n\n•1 su bardağı süzme yoğurt\n\n•1 diş sarımsak\n\n•1 yemek kaşığı zeytinyağı\n\n•1 tatlı kaşığı nane\n\n•İnce kıyılmış dereotu, tuz\n\nYapılışı:\nSüzme yoğurtla ezilmiş sarımsağı karıştırın. Üzerine zeytinyağı, nane, tuz ve dereotu ekleyin. İyice karıştırıp soğuk meze olarak servis edin.\n",
+      "besinDegeri": "•Kalori:90-120kcal\n•Karbonhidrat:3-4g\n•Protein:5-6g\n•Yağ:6-8g\n•Lif:0-1g\n•Sodyum:200-300g",
+      "ipuclari": "•Yoğurdun süzme olması haydariye yoğun kıvam verir.\n•Sarımsağı ezerek eklemek aromayı artırır.\n•Servis öncesi birkaç saat buzdolabında dinlendirin.\n•Zeytinyağını en son üzerine gezdirin.\n•Sunumda üzerine kuru nane veya pul biber serpebilirsiniz.",
+      "favori": false
+    }
+  ,
+     {
+      "yemekAdi": "Tavuk Sote",
+      "malzemeler": "tavuk göğsü, biber, domates, soğan, sarımsak, sıvı yağ, salça, tuz, karabiber",
+      "gorselUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ftavuksote.png?alt=media&token=22a598bc-4c1e-4f86-b052-ef69cfe0af70",
+      "yapilis": "Malzemeler:\n\n500 g tavuk göğsü\n\n•1 adet soğan\n\n•2 adet biber\n\n•2 adet domates\n\n•1 yemek kaşığı salça\n\n•Sıvı yağ, baharatlar\n\nYapılışı:\nTavukları küçük küp doğrayın. Yağda rengi dönene kadar kavurun. Soğan ve biberi ekleyip soteleyin. Salça ve domatesleri ekleyip baharatlarla tatlandırın. Kısık ateşte pişirin.\n",
+      "besinDegeri": "•Kalori:250-300kcal\n•Karbonhidrat:6-8g\n•Protein:30-35g\n•Yağ:10-12g\n•Lif:2-3g\n•Sodyum:400-500g",
+      "ipuclari": "•Tavukları pişirmeden önce marine ederseniz daha yumuşak olur.\n•Sebzeleri ekledikten sonra fazla karıştırmayın, ezilmesin.\n•Kısık ateşte yavaş pişirmek lezzeti artırır.\n•Domates çok suluysa fazla su eklemeye gerek kalmaz.\n•Üzerine taze kekik veya pul biber ile servis edebilirsiniz.",
+      "favori": false
+    }
+  , {
+      "yemekAdi": "Tavuk Çorbası",
+      "malzemeler": "tavuk göğsü, un, tereyağı, su, tuz, karabiber, limon, yumurta sarısı",
+      "gorselUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ftavukcorbasi.jpeg?alt=media&token=eb6c76a5-f1ba-4f5a-a52c-85500ee60fa0",
+      "yapilis": "Malzemeler:\n\n•1 parça tavuk göğsü\n\n•1 yemek kaşığı un\n\n•1 yemek kaşığı tereyağı\n\n•1 yumurta sarısı\n\n•Yarım limon\n\n•5 su bardağı su\n\n•Tuz, karabiber\n\nYapılışı:\nTavuğu haşlayıp didikleyin. Un ve tereyağını kavurup suyu ekleyin. Karıştırarak kaynatın. Tavukları ekleyin. Limon ve yumurtayla hazırlanan terbiyeyi yavaşça ekleyin. Karıştırarak 2-3 dakika daha pişirin.\n",
+      "besinDegeri": "•Kalori:150-200kcal\n•Karbonhidrat:5-8g\n•Protein:18-22g\n•Yağ:6-8g\n•Lif:0-1g\n•Sodyum:400-500g",
+      "ipuclari": "•Tavuğu haşladıktan sonra suyunu çorbada kullanmak lezzeti artırır.\n•Terbiyeyi çorbaya yavaş yavaş ekleyin, sürekli karıştırarak ısı farkını dengeleyin.\n•Çorbayı kısık ateşte pişirmek kesilmesini önler.\n•Limon suyu ve karabiberi en son aşamada ekleyin.\n•İsteğe göre üzerine pul biber veya nane serpebilirsiniz.",
+      "favori": false
+    }
+  ,
+    {
+      "yemekAdi": "Tavuk Dürüm",
+      "malzemeler": "tavuk göğsü, lavaş ekmeği, biber, domates, soğan, baharatlar, yoğurt, sarımsak",
+      "gorselUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ftavukdurum.jpeg?alt=media&token=0e7be8b5-be87-42c9-b068-25b638e418ac",
+      "yapilis": "Malzemeler:\n\n•300 g tavuk göğsü\n\n•2 adet lavaş\n\n•1 adet biber, 1 domates\n\n•2 yemek kaşığı yoğurt\n\n•1 diş sarımsak\n\n•Baharatlar\n\nYapılışı:\nTavukları doğrayıp baharatlarla sotele. Lavaşı ısıtın. Sarımsaklı yoğurt hazırlayın. Lavaşa yoğurt sürüp tavuk ve sebzeleri koyun. Rulo yapıp servis edin.",
+      "besinDegeri": "•Kalori:350-450kcal\n•Karbonhidrat:30-35g\n•Protein:25-30g\n•Yağ:15-18g\n•Lif:3-4g\n•Sodyum:500-600g",
+      "ipuclari": "•Tavuğu marine ederek daha yumuşak ve lezzetli hale getirebilirsiniz.\n•Lavaşları tost makinesinde ısıtmak kıtır bir dış yüzey sağlar.\n•Sarımsaklı yoğurt sosu dürüme ferah bir aroma katar.\n•Sebzeleri ince doğrayarak sarımı kolaylaştırın.\n•Dürümü sararken iç malzemeyi eşit dağıtın, dağılmasını önleyin.",
+      "favori": false
+    }
+  , {
+      "yemekAdi": "Fırında Tavuklu Patates",
+      "malzemeler": "tavuk but veya baget, patates, soğan, biber, domates, salça, sıvı yağ, tuz, karabiber, kekik",
+      "gorselUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ffirindatavuklupatates.jpeg?alt=media&token=787d873c-0ab8-4b80-98b7-c61746069543",
+      "yapilis": "Malzemeler:\n\n•4 adet tavuk baget\n\n•3 patates, 1 soğan, 2 biber\n\n•1 yemek kaşığı salça\n\n•2 yemek kaşığı sıvı yağ\n\n•Tuz, karabiber, kekik\n\nYapılışı:\nTüm malzemeleri doğrayıp bir kapta baharatlarla karıştırın. Fırın tepsisine dizin. Üzerini folyo ile örtüp 200°C fırında 45 dakika pişirin. Folyoyu açıp üstü kızarana kadar fırınlayın.",
+      "besinDegeri": "•Kalori:400-500kcal\n•Karbonhidrat:25-30g\n•Protein:30-35g\n•Yağ:20-25g\n•Lif:4-5g\n•Sodyum:500-600g",
+      "ipuclari": "•Patatesleri ince doğrayarak pişme süresini kısaltabilirsiniz.\n•Tavukları önceden baharatlarla marine etmek lezzeti artırır.\n•Fırın poşeti kullanırsanız daha yumuşak sonuç alırsınız.\n•Folyoyu pişirme sonunda açarak üstünü kızartın.\n•Üzerine biraz biberiye veya kekik eklemek aroma verir.",
+      "favori": false
+    }
+  ,
+     {
+      "yemekAdi": "Tavuklu Patates Graten",
+      "malzemeler": "haşlanmış tavuk göğsü, patates, süt, un, tereyağı, kaşar peyniri, tuz, karabiber, muskat",
+      "gorselUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ftavuklupatatesgraten.jpeg?alt=media&token=ee3afb6f-85c3-4185-bcba-3111d54342a1",
+      "yapilis": "Malzemeler:\n\n•2 haşlanmış patates\n\n•1 haşlanmış tavuk göğsü\n\n•1 yemek kaşığı un\n\n•1 yemek kaşığı tereyağı\n\n•1,5 su bardağı süt\n\n•Rendelenmiş kaşar\n\n•Tuz, karabiber\n\nYapılışı:\nBeşamel sos için tereyağında unu kavurun, süt ekleyin. Kıvam alınca ocaktan alın. Patates ve tavukları doğrayın. Fırın kabına dizip sosu dökün. Üzerine kaşar rendesi serpip 200°C fırında kızarana kadar pişirin.",
+      "besinDegeri": "•Kalori:450-550kcal\n•Karbonhidrat:25-30g\n•Protein:30-35g\n•Yağ:25-30g\n•Lif:3-4g\n•Sodyum:500-600g",
+      "ipuclari": "•Beşamel sosu sürekli karıştırarak pişirin, topaklanmasın.\n•Muskat rendesi sosa aroma katar, fazla kaçırmayın.\n•Kaşarı sadece üstte değil, aralara da serpebilirsiniz.\n•Patatesleri çok kalın doğramayın, daha çabuk pişer.\n•Fırında üzeri kızarana kadar pişirin, folyo kullanmayın.",
+      "favori": false
+    },
+
+     {
+      "yemekAdi": "Tavuklu Patates Salatası",
+      "malzemeler": "haşlanmış patates, haşlanmış tavuk göğsü, yoğurt, mayonez, sarımsak, dereotu, tuz, karabiber",
+      "gorselUrl": "https://firebasestorage.googleapis.com/v0/b/fir-kullanimi-226f0.firebasestorage.app/o/KategoriGorsel%2Ftavuklupatatessalatasi.jpeg?alt=media&token=e06b5f1c-ea0e-4f47-9d88-bcddcccaaf4f",
+      "yapilis": "Malzemeler:\n\n•2 haşlanmış patates\n\n•1 haşlanmış tavuk göğsü\n\n•3 yemek kaşığı yoğurt\n\n•1 yemek kaşığı mayonez\n\n•1 diş sarımsak\n\n•Dereotu, tuz, karabiber\n\nYapılışı:\nPatates ve tavukları küp küp doğrayın. Ezilmiş sarımsak, yoğurt ve mayonezi karıştırın. Baharatlarla birlikte tüm malzemeyi harmanlayın. Soğuk servis yapın.",
+      "besinDegeri": "•Kalori:300-350kcal\n•Karbonhidrat:20-25g\n•Protein:20-25g\n•Yağ:12-15g\n•Lif:3-4g\n•Sodyum:400-500g",
+      "ipuclari": "•Haşlanmış malzemeleri soğuttuktan sonra karıştırın.\n•Yoğurt ve mayonez oranını damak zevkine göre ayarlayın.\n•İçine kornişon turşu veya mısır da ekleyebilirsiniz.\n•Baharatları en son ekleyip tadını kontrol edin.\n•Soğuk servis ederseniz lezzeti daha belirgin olur.",
+      "favori": false
+    }
+
+]
+}
+
