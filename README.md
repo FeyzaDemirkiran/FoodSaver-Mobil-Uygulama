@@ -9,7 +9,7 @@
 
 **Evdeki gıda envanterini takip etmek, son kullanma tarihi yaklaşan ürünleri hatırlatmak ve mevcut malzemelere göre yemek tarifleri önermek için geliştirilmiş Android mobil uygulaması.**
 
-[Özellikler](#-öne-çıkan-özellikler) • [Teknolojiler](#-kullanılan-teknolojiler) • [Kurulum](#-kurulum-ve-çalıştırma) • [İletişim](#-geliştirici-ve-iletişim)
+[Özellikler](#-öne-çıkan-özellikler) • [Ekran Görüntüleri](#-ekran-görüntüleri) • [Teknolojiler](#-kullanılan-teknolojiler) • [Kurulum](#-kurulum-ve-çalıştırma) • [İletişim](#-geliştirici-ve-iletişim)
 
 </div>
 
@@ -20,6 +20,25 @@
 **FoodSaver**, evdeki gıda israfını önlemek, mutfak harcamalarını kontrol altında tutmak ve gıda tüketimini planlı hale getirmek amacıyla geliştirilmiş kapsamlı bir Android uygulamasıdır.
 
 Kullanıcılar evlerindeki gıda ürünlerini adı, miktarı ve son kullanma tarihi bilgileriyle sisteme kaydedebilir. Uygulama, son kullanma tarihi yaklaşan ürünler için kullanıcıya hatırlatmalar sunarak gıdaların bozulmadan zamanında tüketilmesini sağlar. Bununla birlikte; gıdaların raf ömrünü uzatmaya yönelik doğru saklama ipuçları, mevsimsel beslenme önerileri ve mutfakta halihazırda bulunan malzemelerle hazırlanabilecek pratik yemek tarifleri önererek mutfak yönetimini kolaylaştırır.
+
+---
+
+## 📸 Ekran Görüntüleri
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Ana Ekran</b></td>
+      <td align="center"><b>Ürün Ekleme</b></td>
+      <td align="center"><b>Tarif Önerileri</b></td>
+    </tr>
+    <tr>
+      <td><img src="home.png" width="220" alt="Ana Ekran"/></td>
+      <td><img src="add_item.png" width="220" alt="Ürün Ekleme"/></td>
+      <td><img src="recipes.png" width="220" alt="Tarif Önerileri"/></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -59,7 +78,6 @@ FoodSaver/
 │   │   │   │   └── values/                   # Renkler, metinler ve temalar
 │   │   │   └── AndroidManifest.xml           # Uygulama izinleri ve bileşen tanımları
 └── README.md                                 # Proje dokümantasyonu
-
 🚀 Kurulum ve Çalıştırma
 Projeyi yerel geliştirme ortamınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
