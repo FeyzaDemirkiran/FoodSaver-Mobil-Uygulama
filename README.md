@@ -12,7 +12,24 @@
 [Özellikler](#-öne-çıkan-özellikler) • [Ekran Görüntüleri](#-ekran-görüntüleri) • [Teknolojiler](#-kullanılan-teknolojiler) • [Kurulum](#-kurulum-ve-çalıştırma) • [İletişim](#-geliştirici-ve-iletişim)
 
 </div>
+## 📸 Ekran Görüntüleri
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Ana Ekran & Envanter</b></td>
+      <td align="center"><b>Ürün Ekleme</b></td>
+      <td align="center"><b>Tarif Önerileri</b></td>
+      <td align="center"><b>Saklama İpuçları</b></td>
+    </tr>
+    <tr>
+      <td><img src="home.png.png" width="200" alt="Ana Ekran"/></td>
+      <td><img src="add_item.png.png" width="200" alt="Ürün Ekleme"/></td>
+      <td><img src="recipes.png.png" width="200" alt="Tarif Önerileri"/></td>
+      <td><img src="tips.png.png" width="200" alt="Saklama İpuçları"/></td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 📱 Proje Hakkında
