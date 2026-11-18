@@ -9,7 +9,8 @@
 
 **Evdeki gıda envanterini takip etmek, son kullanma tarihi yaklaşan ürünleri hatırlatmak ve mevcut malzemelere göre yemek tarifleri önermek için geliştirilmiş Android mobil uygulaması.**
 
-[Özellikler](#-öne-çıkan-özellikler) • [Ekran Görüntüleri](#-ekran-görüntüleri) • [Teknolojiler](#-kullanılan-teknolojiler) • [Kurulum](#-kurulum-ve-çalıştırma) 
+[Özellikler](#-öne-çıkan-özellikler) • [Teknolojiler](#-kullanılan-teknolojiler) • [Kurulum](#-kurulum-ve-çalıştırma) • [İletişim](#-geliştirici-ve-iletişim)
+
 </div>
 
 ---
@@ -22,34 +23,13 @@ Kullanıcılar evlerindeki gıda ürünlerini adı, miktarı ve son kullanma tar
 
 ---
 
-## 📸 Ekran Görüntüleri
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Ana Ekran & Envanter</b></td>
-      <td align="center"><b>Ürün Ekleme</b></td>
-      <td align="center"><b>Tarif Önerileri</b></td>
-      <td align="center"><b>Saklama İpuçları</b></td>
-    </tr>
-    <tr>
-      <td><img src="home.png" width="200" alt="Ana Ekran"/></td>
-      <td><img src="add_item.png" width="200" alt="Ürün Ekleme"/></td>
-      <td><img src="recipes.png" width="200" alt="Tarif Önerileri"/></td>
-      <td><img src="tips.png" width="200" alt="Saklama İpuçları"/></td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## ✨ Öne Çıkan Özellikler
 
-* **📦 Gıda Envanter Yönetimi:** Evdeki ürünleri adı, miktarı (adet, kg, litre vb.) ve son kullanma tarihiyle hızlıca ekleme, düzenleme ve listeleme.
-* **⏰ Son Kullanma Tarihi Takibi ve Hatırlatmalar:** Tarihi yaklaşan veya geçmek üzere olan gıdalar için görsel uyarılar ve hatırlatmalar sunarak israfı önleme.
+* **📦 Gıda Envanter Yönetimi:** Evdeki ürünleri adı, miktarı ve son kullanma tarihiyle hızlıca ekleme, düzenleme ve listeleme.
+* **⏰ Son Kullanma Tarihi Takibi ve Hatırlatmalar:** Tarihi yaklaşan veya geçmek üzere olan gıdalar için uyarılar sunarak israfı önleme.
 * **🍳 Akıllı Tarif Önerileri:** Mutfakta mevcut olan malzemeleri analiz ederek eldeki ürünlerle yapılabilecek uygun yemek tariflerini listeleme.
-* **❄️ Saklama İpuçları ve Raf Ömrü Bilgileri:** Sebze, meyve, bakliyat ve süt ürünleri gibi farklı gıda gruplarının nasıl daha uzun süre taze tutulacağına dair pratik bilgiler.
-* **🌱 Mevsimsel Öneriler:** Yılın bulunduğunuz ayına ve mevsimine göre en taze tüketilebilecek gıda önerileri ve bilgilendirmeler.
+* **❄️ Saklama İpuçları ve Raf Ömrü Bilgileri:** Farklı gıda gruplarının nasıl daha uzun süre taze tutulacağına dair pratik bilgiler.
+* **🌱 Mevsimsel Öneriler:** Mevsimine uygun beslenme ve gıda yönetimi tavsiyeleri.
 * **⚡ Çevrimdışı Çalışma Desteği:** SQLite yerel veritabanı mimarisi sayesinde internet bağlantısına ihtiyaç duymadan tüm verilere anında erişim.
 
 ---
@@ -76,9 +56,8 @@ FoodSaver/
 │   │   │   ├── res/
 │   │   │   │   ├── layout/                   # XML ekran tasarımları
 │   │   │   │   ├── drawable/                 # İkonlar ve görsel varlıklar
-│   │   │   │   └── values/                   # Renkler, metinler (strings.xml) ve temalar
+│   │   │   │   └── values/                   # Renkler, metinler ve temalar
 │   │   │   └── AndroidManifest.xml           # Uygulama izinleri ve bileşen tanımları
-├── screenshots/                              # README ekran görüntüleri
 └── README.md                                 # Proje dokümantasyonu
 
 🚀 Kurulum ve Çalıştırma
