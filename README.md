@@ -33,10 +33,10 @@ Kullanıcılar evlerindeki gıda ürünlerini adı, miktarı ve son kullanma tar
       <td align="center"><b>Saklama İpuçları</b></td>
     </tr>
     <tr>
-      <td><img src="screenshots/home.png" width="200" alt="Ana Ekran"/></td>
-      <td><img src="screenshots/add_item.png" width="200" alt="Ürün Ekleme"/></td>
-      <td><img src="screenshots/recipes.png" width="200" alt="Tarif Önerileri"/></td>
-      <td><img src="screenshots/tips.png" width="200" alt="Saklama İpuçları"/></td>
+      <td><img src="home.png" width="200" alt="Ana Ekran"/></td>
+      <td><img src="add_item.png" width="200" alt="Ürün Ekleme"/></td>
+      <td><img src="recipes.png" width="200" alt="Tarif Önerileri"/></td>
+      <td><img src="tips.png" width="200" alt="Saklama İpuçları"/></td>
     </tr>
   </table>
 </div>
