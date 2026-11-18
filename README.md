@@ -23,24 +23,6 @@ Kullanıcılar evlerindeki gıda ürünlerini adı, miktarı ve son kullanma tar
 
 ---
 
-## 📸 Ekran Görüntüleri
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Ana Ekran</b></td>
-      <td align="center"><b>Ürün Ekleme</b></td>
-      <td align="center"><b>Tarif Önerileri</b></td>
-    </tr>
-    <tr>
-      <td><img src="home.png" width="220" alt="Ana Ekran"/></td>
-      <td><img src="add_item.png" width="220" alt="Ürün Ekleme"/></td>
-      <td><img src="recipes.png" width="220" alt="Tarif Önerileri"/></td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## ✨ Öne Çıkan Özellikler
 
