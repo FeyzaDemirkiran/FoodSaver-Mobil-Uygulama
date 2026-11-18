@@ -46,7 +46,7 @@ Kullanıcılar evlerindeki gıda ürünlerini adı, miktarı ve son kullanma tar
 
 ---
 
-## 📂 Proje Klasör Yapısı
+## 📂 Proje Yapısı
 
 ```text
 FoodSaver/
